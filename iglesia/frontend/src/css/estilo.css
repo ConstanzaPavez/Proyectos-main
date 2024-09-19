@@ -1,0 +1,18 @@
+.inicio {
+
+    background-color: cadetblue;
+    font-size: medium;
+}
+
+.todo {
+    background-color: #A2D6E0;
+}
+.home {
+    font-size: larger;
+    font-style:oblique;
+    text-align: justify;
+    margin: 50px;
+    display:flex;
+
+
+}
